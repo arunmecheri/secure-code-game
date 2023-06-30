@@ -3,7 +3,7 @@
 _A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code._
 
 <details id=0 open>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>Welcome</h2></summary> 
 
 - **Who is this for**: Developers, students.
 - **What you'll learn**: How to spot and fix vulnerable patterns in real-world code, build security into your workflows, and understand security alerts generated against your code. 
